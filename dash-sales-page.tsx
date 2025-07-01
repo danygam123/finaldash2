@@ -102,7 +102,7 @@ export default function Component() {
               <div className="text-lg font-semibold">First analysis FREE</div>
             </div>
             <div className="text-white/90">
-              <div className="text-lg font-semibold">Just $6/month</div>
+              <div className="text-lg font-semibold">Just $5.99/month</div>
             </div>
           </div>
         </div>
